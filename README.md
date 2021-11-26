@@ -17,6 +17,6 @@
 ***data here***
 # Link Readme File
 
-[Google]("www.google.com")
+[Google]("https://www.google.co.in/")
 
 ![Rose](images.jpg)
