@@ -28,8 +28,8 @@
 |3|Bhanu|CSE|5F9|
 |4|Madhuri|CSE|5F7|
 
-#List
-##Ordered list
+# List
+## Ordered list
 1.Name
 2.Roll No
 3.Branch
