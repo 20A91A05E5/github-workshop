@@ -30,8 +30,13 @@
 
 # List
 ## Ordered list
-1.Name
-2.Roll No
-3.Branch
-4.College
-5.Institution
+1. Name
+2. Roll No
+3. Branch
+4. College
+5. Institution
+
+## Unordered List
+- Name
+- Roll No
+- Branch
