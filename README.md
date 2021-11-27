@@ -72,3 +72,14 @@
        if a%2==0
          print(a+b+c)
 ```
+1. Name
+   * first
+   * last
+   * middle name
+2. GIT HUB
+  - Username
+  - Mail ID
+  - Password
+
+
+
