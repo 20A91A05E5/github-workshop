@@ -54,3 +54,13 @@
    1. Username
    2. Mail ID
    3. Password
+
+1. Name
+   * first
+   * last
+   * middle name
+2. GIT HUB
+  - Username
+  - Mail ID
+  - Password
+
